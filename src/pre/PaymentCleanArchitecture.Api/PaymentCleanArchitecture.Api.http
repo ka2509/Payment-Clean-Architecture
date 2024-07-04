@@ -1,0 +1,6 @@
+@PaymentCleanArchitecture.Api_HostAddress = http://localhost:5009
+
+GET {{PaymentCleanArchitecture.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

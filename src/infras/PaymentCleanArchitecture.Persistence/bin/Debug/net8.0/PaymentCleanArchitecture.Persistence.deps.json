@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PaymentCleanArchitecture.Persistence/1.0.0": {
+        "runtime": {
+          "PaymentCleanArchitecture.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentCleanArchitecture.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

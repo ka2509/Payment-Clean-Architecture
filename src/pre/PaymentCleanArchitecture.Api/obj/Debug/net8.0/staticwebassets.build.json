@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2QgxzfCzRxTPklAWQVVHjasJJ/MnzFR7euggqgyH/ac=",
+  "Source": "PaymentCleanArchitecture.Api",
+  "BasePath": "_content/PaymentCleanArchitecture.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

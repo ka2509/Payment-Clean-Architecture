@@ -1,0 +1,11 @@
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\bin\Debug\net8.0\PaymentCleanArchitecture.Application.deps.json
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\bin\Debug\net8.0\PaymentCleanArchitecture.Application.dll
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\bin\Debug\net8.0\PaymentCleanArchitecture.Application.pdb
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.AssemblyInfoInputs.cache
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.AssemblyInfo.cs
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.dll
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\refint\PaymentCleanArchitecture.Application.dll
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.pdb
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\ref\PaymentCleanArchitecture.Application.dll

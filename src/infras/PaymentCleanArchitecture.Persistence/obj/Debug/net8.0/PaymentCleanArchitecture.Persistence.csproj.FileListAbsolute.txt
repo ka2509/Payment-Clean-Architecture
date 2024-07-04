@@ -1,0 +1,11 @@
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\bin\Debug\net8.0\PaymentCleanArchitecture.Persistence.deps.json
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\bin\Debug\net8.0\PaymentCleanArchitecture.Persistence.dll
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\bin\Debug\net8.0\PaymentCleanArchitecture.Persistence.pdb
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.AssemblyInfoInputs.cache
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.AssemblyInfo.cs
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.dll
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\refint\PaymentCleanArchitecture.Persistence.dll
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.pdb
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\ref\PaymentCleanArchitecture.Persistence.dll
