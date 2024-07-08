@@ -1,6 +1,14 @@
-﻿namespace PaymentCleanArchitecture.Api.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace PaymentCleanArchitecture.Api.Controllers
 {
-    public class PaymentController
+    [ApiController]
+    public class PaymentController : ControllerBase
     {
+        
+        public PaymentController()
+        {
+            
+        }
     }
 }
