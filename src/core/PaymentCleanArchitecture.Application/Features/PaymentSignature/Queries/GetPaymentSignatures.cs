@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PaymentCleanArchitecture.Application.Features.PaymentSignature.Queries
 {
-    internal class GetPaymentSignatures
+    public class GetPaymentSignatures
     {
     }
 }

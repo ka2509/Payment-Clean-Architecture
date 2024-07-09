@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "PaymentCleanArchitecture.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PaymentCleanArchitecture.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PaymentCleanArchitecture.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PaymentCleanArchitecture.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../core/PaymentCleanArchitecture.Domain/PaymentCleanArchitecture.Domain.csproj",
+      "msbuildProject": "../../core/PaymentCleanArchitecture.Domain/PaymentCleanArchitecture.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "PaymentCleanArchitecture.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\doqua\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\repo\\PaymentCleanArchitecture\\src\\core\\PaymentCleanArchitecture.Domain\\PaymentCleanArchitecture.Domain.csproj": {
+              "projectPath": "D:\\repo\\PaymentCleanArchitecture\\src\\core\\PaymentCleanArchitecture.Domain\\PaymentCleanArchitecture.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

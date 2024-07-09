@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PaymentCleanArchitecture.Application.Features.PaymentDestination.Commands
 {
-    internal class CreatePaymentDestination
+    public class CreatePaymentDestination
     {
     }
 }

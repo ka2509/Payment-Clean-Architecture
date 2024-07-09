@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "PaymentCleanArchitecture.Persistence/1.0.0": {
+        "dependencies": {
+          "PaymentCleanArchitecture.Domain": "1.0.0"
+        },
         "runtime": {
           "PaymentCleanArchitecture.Persistence.dll": {}
+        }
+      },
+      "PaymentCleanArchitecture.Domain/1.0.0": {
+        "runtime": {
+          "PaymentCleanArchitecture.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "PaymentCleanArchitecture.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentCleanArchitecture.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

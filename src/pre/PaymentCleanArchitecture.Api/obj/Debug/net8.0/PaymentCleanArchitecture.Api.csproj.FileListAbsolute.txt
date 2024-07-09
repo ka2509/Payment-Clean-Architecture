@@ -30,3 +30,4 @@ D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\
 D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\net8.0\PaymentCleanArchitecture.Api.pdb
 D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\net8.0\PaymentCleanArchitecture.Api.genruntimeconfig.cache
 D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\net8.0\ref\PaymentCleanArchitecture.Api.dll
+D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\net8.0\PaymentCleanArchitecture.Api.sourcelink.json

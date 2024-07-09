@@ -9,3 +9,4 @@ D:\repo\PaymentCleanArchitecture\src\shared\PaymentCleanArchitecture.Utils\obj\D
 D:\repo\PaymentCleanArchitecture\src\shared\PaymentCleanArchitecture.Utils\obj\Debug\net8.0\refint\PaymentCleanArchitecture.Utils.dll
 D:\repo\PaymentCleanArchitecture\src\shared\PaymentCleanArchitecture.Utils\obj\Debug\net8.0\PaymentCleanArchitecture.Utils.pdb
 D:\repo\PaymentCleanArchitecture\src\shared\PaymentCleanArchitecture.Utils\obj\Debug\net8.0\ref\PaymentCleanArchitecture.Utils.dll
+D:\repo\PaymentCleanArchitecture\src\shared\PaymentCleanArchitecture.Utils\obj\Debug\net8.0\PaymentCleanArchitecture.Utils.sourcelink.json

@@ -9,3 +9,8 @@ D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\o
 D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\refint\PaymentCleanArchitecture.Application.dll
 D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.pdb
 D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\ref\PaymentCleanArchitecture.Application.dll
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\bin\Debug\net8.0\PaymentCleanArchitecture.Domain.dll
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\bin\Debug\net8.0\PaymentCleanArchitecture.Domain.pdb
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.csproj.AssemblyReference.cache
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentCleanArchitecture.Application.sourcelink.json
+D:\repo\PaymentCleanArchitecture\src\core\PaymentCleanArchitecture.Application\obj\Debug\net8.0\PaymentC.B63B6CBA.Up2Date

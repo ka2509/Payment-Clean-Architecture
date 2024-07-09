@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PaymentCleanArchitecture.Application.Features.User.Queries
 {
-    internal class GetUserByQuery
+    public class GetUserByQuery
     {
     }
 }

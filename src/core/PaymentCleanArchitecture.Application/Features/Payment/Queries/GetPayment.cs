@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PaymentCleanArchitecture.Application.Features.Payment.Queries
 {
-    internal class GetPayment
+    public class GetPayment
     {
     }
 }

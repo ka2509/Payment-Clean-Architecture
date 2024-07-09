@@ -2,11 +2,12 @@
 
 namespace PaymentCleanArchitecture.Api.Controllers
 {
+    [Route("api/[controller]")]
     [ApiController]
-    public class PaymentController : ControllerBase
+    public class PaymentsController : ControllerBase
     {
         
-        public PaymentController()
+        public PaymentsController()
         {
             
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PaymentCleanArchitecture.Application.Features.Payment.Commands
 {
-    internal class CreatePayment
+    public class CreatePayment
     {
     }
 }

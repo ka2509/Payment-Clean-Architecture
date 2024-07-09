@@ -9,3 +9,8 @@ D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence
 D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\refint\PaymentCleanArchitecture.Persistence.dll
 D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.pdb
 D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\ref\PaymentCleanArchitecture.Persistence.dll
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\bin\Debug\net8.0\PaymentCleanArchitecture.Domain.dll
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\bin\Debug\net8.0\PaymentCleanArchitecture.Domain.pdb
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.csproj.AssemblyReference.cache
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentCleanArchitecture.Persistence.sourcelink.json
+D:\repo\PaymentCleanArchitecture\src\infras\PaymentCleanArchitecture.Persistence\obj\Debug\net8.0\PaymentC.A705E770.Up2Date

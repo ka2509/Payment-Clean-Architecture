@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PaymentCleanArchitecture.Application.Features.User.Commands
+namespace PaymentCleanArchitecture.Domain.Repositories
 {
-    internal class CreateUser
+    public interface IUserRepository
     {
     }
 }

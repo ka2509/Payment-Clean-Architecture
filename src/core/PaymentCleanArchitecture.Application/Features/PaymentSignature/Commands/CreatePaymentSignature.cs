@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PaymentCleanArchitecture.Application.Features.PaymentSignature.Commands
 {
-    internal class CreatePaymentSignature
+    public class CreatePaymentSignature
     {
     }
 }

@@ -11,17 +11,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infras", "infras", "{01B402
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pre", "pre", "{77E3533A-BC95-43A2-8375-EF49940FC9CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCleanArchitecture.Domain", "src\core\PaymentCleanArchitecture.Domain\PaymentCleanArchitecture.Domain.csproj", "{B16126AB-6841-48CB-9721-4459B4451711}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCleanArchitecture.Domain", "src\core\PaymentCleanArchitecture.Domain\PaymentCleanArchitecture.Domain.csproj", "{B16126AB-6841-48CB-9721-4459B4451711}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCleanArchitecture.Application", "src\core\PaymentCleanArchitecture.Application\PaymentCleanArchitecture.Application.csproj", "{260839C1-4ABC-429E-B866-72891EEBB539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCleanArchitecture.Application", "src\core\PaymentCleanArchitecture.Application\PaymentCleanArchitecture.Application.csproj", "{260839C1-4ABC-429E-B866-72891EEBB539}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B16126AB-6841-48CB-9721-4459B4451711} = {B16126AB-6841-48CB-9721-4459B4451711}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCleanArchitecture.Persistence", "src\infras\PaymentCleanArchitecture.Persistence\PaymentCleanArchitecture.Persistence.csproj", "{AD050E52-BB2F-4DED-82E4-B0FB419E9955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCleanArchitecture.Persistence", "src\infras\PaymentCleanArchitecture.Persistence\PaymentCleanArchitecture.Persistence.csproj", "{AD050E52-BB2F-4DED-82E4-B0FB419E9955}"
+	ProjectSection(ProjectDependencies) = postProject
+		{674D7766-B510-4E3A-8122-A2EB7630893C} = {674D7766-B510-4E3A-8122-A2EB7630893C}
+		{B16126AB-6841-48CB-9721-4459B4451711} = {B16126AB-6841-48CB-9721-4459B4451711}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCleanArchitecture.Api", "src\pre\PaymentCleanArchitecture.Api\PaymentCleanArchitecture.Api.csproj", "{674D7766-B510-4E3A-8122-A2EB7630893C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCleanArchitecture.Api", "src\pre\PaymentCleanArchitecture.Api\PaymentCleanArchitecture.Api.csproj", "{674D7766-B510-4E3A-8122-A2EB7630893C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{260839C1-4ABC-429E-B866-72891EEBB539} = {260839C1-4ABC-429E-B866-72891EEBB539}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{534F4197-CA8A-41C3-9EDC-C996C40FAD8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentCleanArchitecture.Utils", "src\shared\PaymentCleanArchitecture.Utils\PaymentCleanArchitecture.Utils.csproj", "{07589EF1-8172-4073-87E6-563D916CB750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCleanArchitecture.Utils", "src\shared\PaymentCleanArchitecture.Utils\PaymentCleanArchitecture.Utils.csproj", "{07589EF1-8172-4073-87E6-563D916CB750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
