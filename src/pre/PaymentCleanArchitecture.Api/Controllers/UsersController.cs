@@ -7,5 +7,10 @@ namespace PaymentCleanArchitecture.Api.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
+        [HttpGet]
+        public async Task<IActionResult> GetAllUser()
+        {
+            return Ok();
+        }
     }
 }
