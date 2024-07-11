@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PaymentCleanArchitecture.Application.Features.User.DTOs;
 
 namespace PaymentCleanArchitecture.Api.Controllers
 {
@@ -9,6 +10,12 @@ namespace PaymentCleanArchitecture.Api.Controllers
     {
         [HttpGet]
         public async Task<IActionResult> GetAllUser()
+        {
+            return Ok();
+        }
+        [HttpPost]
+        [Route("/register")]
+        public async Task<IActionResult> Register([FromBody] CreateUserDto userDto)
         {
             return Ok();
         }
