@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace PaymentCleanArchitecture.Domain.Repositories
 {
-    public interface IUserRepository
+    public interface IPaymentRepository
     {
-
     }
 }
