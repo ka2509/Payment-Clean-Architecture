@@ -31,3 +31,9 @@ D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\
 D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\net8.0\PaymentCleanArchitecture.Api.genruntimeconfig.cache
 D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\net8.0\ref\PaymentCleanArchitecture.Api.dll
 D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\obj\Debug\net8.0\PaymentCleanArchitecture.Api.sourcelink.json
+D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\bin\Debug\net8.0\MediatR.dll
+D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\bin\Debug\net8.0\PaymentCleanArchitecture.Application.dll
+D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\bin\Debug\net8.0\PaymentCleanArchitecture.Domain.dll
+D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\bin\Debug\net8.0\PaymentCleanArchitecture.Application.pdb
+D:\repo\PaymentCleanArchitecture\src\pre\PaymentCleanArchitecture.Api\bin\Debug\net8.0\PaymentCleanArchitecture.Domain.pdb

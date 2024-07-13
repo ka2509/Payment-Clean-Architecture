@@ -5,7 +5,7 @@ using PaymentCleanArchitecture.Domain.Repositories;
 
 namespace PaymentCleanArchitecture.Application.Features.User.Commands
 {
-    public class CreatUserHandler : IRequestHandler<ICreateUserCommand, ResponseService>
+    public class CreatUserHandler : IRequestHandler<CreateUserCommand, ResponseService>
     {
         private readonly IUserRepository _repo;
 
@@ -13,7 +13,7 @@ namespace PaymentCleanArchitecture.Application.Features.User.Commands
         {
             _repo = repo;   
         }
-        public async Task<ResponseService> Handle(ICreateUserCommand request, CancellationToken cancellationToken)
+        public async Task<ResponseService> Handle(CreateUserCommand request, CancellationToken cancellationToken)
         {
             var userDto = request.userDto;
             var createUser = new Domain.Entities.User()

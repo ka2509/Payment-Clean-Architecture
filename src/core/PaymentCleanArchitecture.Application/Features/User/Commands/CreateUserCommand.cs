@@ -9,5 +9,5 @@ using System.Threading.Tasks;
 
 namespace PaymentCleanArchitecture.Application.Features.User.Commands
 {
-    public record ICreateUserCommand(CreateUserDto userDto) : IRequest<ResponseService>;
+    public record CreateUserCommand(CreateUserDto userDto) : IRequest<ResponseService>;
 }
