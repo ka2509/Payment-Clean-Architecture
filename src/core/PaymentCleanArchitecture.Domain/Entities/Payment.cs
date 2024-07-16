@@ -20,5 +20,10 @@ namespace PaymentCleanArchitecture.Domain.Entities
         public string? PaymentStatus { get; set; } = string.Empty;
         public string? PaymentLastMessage { get; set; } = string.Empty;
 
+        //navigation
+        public PaymentDestination PaymentDestination { get; set; }
+        public List<PaymentTransaction> PaymentTransactions { get; set; } = new List<PaymentTransaction>();
+        public List<PaymentSignature> PaymentSignatures { get; set; } = new List<PaymentSignature>();
+
     }
 }

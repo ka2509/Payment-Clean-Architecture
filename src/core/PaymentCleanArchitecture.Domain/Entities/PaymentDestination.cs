@@ -15,5 +15,10 @@ namespace PaymentCleanArchitecture.Domain.Entities
         public int? DesSortIndex { get; set; }
         public string? ParentId { get; set; } = string.Empty;
         public bool IsActive { get; set; }
+
+
+        //navigation
+        public List<Payment> Payments { get; set; } = new List<Payment>();
+        public List<PaymentDestination> PaymentDestinations { get; set; } = new List<PaymentDestination>();
     }
 }

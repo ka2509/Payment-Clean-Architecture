@@ -10,5 +10,8 @@ namespace PaymentCleanArchitecture.Domain.Entities
     {
         public int Id { get; set; }
         public string? FeeName { get; set; } = string.Empty;
+
+        //navigation
+        public List<StudentFee> StudentFees { get; set; } = new List<StudentFee>();
     }
 }

@@ -11,5 +11,8 @@ namespace PaymentCleanArchitecture.Domain.Entities
         public DateTime? TranDate { get; set; }
         public string? PaymentId { get; set; } = String.Empty;
 
+        //navigation
+        public Payment Payment { get; set; }
+
     }
 }
