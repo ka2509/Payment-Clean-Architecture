@@ -18,7 +18,7 @@ namespace PaymentCleanArchitecture.Domain.Entities
         public bool IsValid { get; set; }
 
         //navigation
-        public Payment Py { get; set; }
+        public Payment Payment { get; set; }
 
     }
 }

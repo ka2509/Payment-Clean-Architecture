@@ -20,13 +20,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCleanArchitecture.Ap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCleanArchitecture.Persistence", "src\infras\PaymentCleanArchitecture.Persistence\PaymentCleanArchitecture.Persistence.csproj", "{AD050E52-BB2F-4DED-82E4-B0FB419E9955}"
 	ProjectSection(ProjectDependencies) = postProject
-		{674D7766-B510-4E3A-8122-A2EB7630893C} = {674D7766-B510-4E3A-8122-A2EB7630893C}
 		{B16126AB-6841-48CB-9721-4459B4451711} = {B16126AB-6841-48CB-9721-4459B4451711}
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentCleanArchitecture.Api", "src\pre\PaymentCleanArchitecture.Api\PaymentCleanArchitecture.Api.csproj", "{674D7766-B510-4E3A-8122-A2EB7630893C}"
 	ProjectSection(ProjectDependencies) = postProject
 		{260839C1-4ABC-429E-B866-72891EEBB539} = {260839C1-4ABC-429E-B866-72891EEBB539}
+		{AD050E52-BB2F-4DED-82E4-B0FB419E9955} = {AD050E52-BB2F-4DED-82E4-B0FB419E9955}
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{534F4197-CA8A-41C3-9EDC-C996C40FAD8A}"
