@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaymentCleanArchitecture.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c4e9334db7133d54b198c3881fff4700f79194")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0f32bb27d8c8cfdef30853e3c7ebfe0de1375e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaymentCleanArchitecture.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaymentCleanArchitecture.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
