@@ -35,3 +35,14 @@ Nối 2 model Ai với nhau cho 2 task riêng:
 
 - mình có gpa hiện tại rồi gpa mong muốn + số tín đã học + số tín cần học mình truyền qua 1 model xong output của nó sẽ là một số, số này tượng trưng cho tỷ lệ khả thi để đạt được cái gpa mong muốn. Xong mình lấy output đấy cho vào model nlp để đưa ra lời khuyên. (Vấn đề ở đây sẽ là, thứ nhất data để test và validate sẽ không có sẵn y output mà mình phải tự sinh ra data ⇒ không hợp lý thứ hai là module nlp khó)
 - Tìm hiểu recommender lấy data là các môn mình đã học + điểm của mình trong các môn đó rồi model recommend các môn khác mà nó nghĩ mình sẽ có hứng thú và dễ điểm cao.
+- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Bỏ task liên quan đến phân tích GPA, vì dữ liệu huấn luyện cần GPA của tất cả các sinh viên.
+2. Task gợi ý môn học và giáo viên nên học vào kỳ sau, gồm các bước:
+Crawl data:
+- Lấy ra các comment của sinh viên trong các topic về review thầy cô bộ môn trong group fb SGUET(có thể sử dụng Facebook Graph Api hoặc kết hợp các thư viện khác như BeautifulSoup và Selenium để tự động thao tác với trình duyệt và lấy dữ liệu )
+Dataset preparation:
+- Tiền xử lý các comment để có dataset có thể là chuẩn hóa, tokenize, ...  sao cho phù hợp với mô hình sử dụng.
+Model:
+- Tham khảo các model NLP trên các paper và Hugging Face, đưa dataset bên trên qua model để đánh giá xem thầy cô dạy bộ môn đó là dễ hay khó dựa vào các comment của sinh viên.
+Output:
+- Sau khi đã có label của các thầy cô bộ môn là khó hay dễ thì sẽ sử dụng open ai để đưa ra gợi ý các môn nên học vào kỳ sau cho sinh viên để đạt được kết quả tốt.
