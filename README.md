@@ -39,7 +39,7 @@ Nối 2 model Ai với nhau cho 2 task riêng:
 1. Bỏ task liên quan đến phân tích GPA, vì dữ liệu huấn luyện cần GPA của tất cả các sinh viên.
 2. Task gợi ý môn học và giáo viên nên học vào kỳ sau, gồm các bước:
 Crawl data:
-- Lấy ra các comment của sinh viên trong các topic về review thầy cô bộ môn trong group fb SGUET(có thể sử dụng Facebook Graph Api hoặc kết hợp các thư viện khác như BeautifulSoup và Selenium để tự động thao tác với trình duyệt và lấy dữ liệu )
+- Lấy ra các comment của sinh viên trong các topic về review thầy cô bộ môn trong group fb SGUET(có thể sử dụng Facebook Graph Api hoặc kết hợp các thư viện khác như BeautifulSoup và Selenium để tự động thao tác với trình duyệt và lấy dữ liệu)
 Dataset preparation:
 - Tiền xử lý các comment để có dataset có thể là chuẩn hóa, tokenize, ...  sao cho phù hợp với mô hình sử dụng.
 Model:
