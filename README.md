@@ -41,7 +41,7 @@ Nối 2 model Ai với nhau cho 2 task riêng:
 Crawl data:
 - Lấy ra các comment của sinh viên trong các topic về review thầy cô bộ môn trong group fb SGUET(có thể sử dụng Facebook Graph Api hoặc kết hợp các thư viện khác như BeautifulSoup và Selenium để tự động thao tác với trình duyệt và lấy dữ liệu)
 Dataset preparation:
-- Tiền xử lý các comment để có dataset có thể là chuẩn hóa, tokenize, ...  sao cho phù hợp với mô hình sử dụng.
+- Tiền xử lý các comment để có dataset có thể là chuẩn hóa, tokenize, ... sao cho phù hợp với mô hình sử dụng.
 Model:
 - Tham khảo các model NLP trên các paper và Hugging Face, đưa dataset bên trên qua model để đánh giá xem thầy cô dạy bộ môn đó là dễ hay khó dựa vào các comment của sinh viên.
 Output:
