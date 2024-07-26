@@ -46,3 +46,9 @@ Model:
 - Tham khảo các model NLP trên các paper và Hugging Face, đưa dataset bên trên qua model để đánh giá xem thầy cô dạy bộ môn đó là dễ hay khó dựa vào các comment của sinh viên.
 Output:
 - Sau khi đã có label của các thầy cô bộ môn là khó hay dễ thì sẽ sử dụng open ai để đưa ra gợi ý các môn nên học vào kỳ sau cho sinh viên để đạt được kết quả tốt.
+  **Crawl data:
+Sử dụng graph api fb cần permission**
+
+Sử dụng tool thì không thể export comment từ group private 
+
+⇒ chỉ có thể export bằng drive tự động
