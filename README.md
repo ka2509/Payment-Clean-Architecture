@@ -51,4 +51,4 @@ Sử dụng graph api fb cần permission**
 
 Sử dụng tool thì không thể export comment từ group private 
 
-⇒ chỉ có thể export bằng drive tự động
+⇒ chỉ có thể export bằng drive tự động.
